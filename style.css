@@ -250,7 +250,7 @@ h3 {
 .form-group textarea {
     width: 100%;
     padding: 0.75rem 1rem;
-    background-color: var(--dark-lighter);
+    background-color: var(light);
     border: none;
     border-radius: 0.5rem;
     color: var(--light);
